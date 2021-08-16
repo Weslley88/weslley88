@@ -1,7 +1,7 @@
-## Oii! Eu sou o Weslley88 👋
+## Olá! Eu sou o Weslley!
 
 - 🔭 Hoje estou a procura de uma vaga de Desenvolvedor Front-End
-- 🌱 Eu estou estudando Front-End
+- 🌱 Eu estou estudando HTML5, CSS3, JavaScript, AngularJS e React.
 - 😄 Pronouns: ele/dele
 
 <div>
