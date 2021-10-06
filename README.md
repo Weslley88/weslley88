@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Weslley!
 
-- 🔭 Hoje estou a procura de uma vaga de Desenvolvedor Front-End
+- 🔭 Hoje estou a procura de uma vaga de Desenvolvedor Front-End Jr.
 - 🌱 Tenho conhecimento em HTML5, CSS3, JavaScript, React e MySQL
 - 😄 Pronouns: ele/dele
 
