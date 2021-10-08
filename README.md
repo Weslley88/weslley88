@@ -1,7 +1,7 @@
-## Olá! Eu sou o Weslley!
+## Olá! Eu sou o Weslley, Desenvolvedor Front-End.
 
 - 🔭 Hoje estou a procura de uma vaga de Desenvolvedor Front-End Jr.
-- 🌱 Tenho conhecimento em HTML5, CSS3, JavaScript, React e MySQL
+- 🌱 Tenho conhecimento em HTML5, CSS3, JavaScript, React, MySQL, SQL Server e Linux.
 - 😄 Pronouns: ele/dele
 
 <div>
@@ -23,7 +23,7 @@
   
   <a href="https://www.linkedin.com/in/weslleyosilva88" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:weslley.os88@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   
-  <a class="whatsapp-link" href = "https://web.whatsapp.com/send?phone=5519991145371" target="_blank">Olá, eu so o Weslley. Em que posso lhe ajudar?</a> 
+  <a href = "https://web.whatsapp.com/send?phone=5519991145371" target="_blank"><img src=	"https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  
    
   
