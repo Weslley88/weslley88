@@ -1,8 +1,7 @@
-## Olá! Eu sou o Weslley, Desenvolvedor Web.
+## Olá! Eu sou o Weslley, Analista de Sistemas.
 
-- 🔭 Hoje estou a procura de uma vaga de Desenvolvedor Front-End Jr.
-- 🌱 Tenho conhecimento em HTML5, CSS3, JavaScript, React, MySQL, SQL Server e Linux.
-- 😄 Pronouns: ele/dele
+- 🔭 Hoje estou a procura de uma vaga de DevOps e SRE.
+- 🌱 Tenho conhecimento e experiência em AWS, Dynatrace, Grafana, Metabase, Python, MongoDB,  HTML5, CSS3, JavaScript, React, MySQL, SQL Server e Linux.
 
 <div>
   <a href="https://github.com/weslley88">
